@@ -1,0 +1,9 @@
+KNN1_result.csv  0.59808
+network1_result.csv  0.49760
+network2_result.csv  0.39712
+network3_result.csv 0.34449
+network4_result.csv(3µÄÄæÖÃ) 0.65550
+network4_result.csv 0.63636
+network6_result.csv 0.64114
+network7_result.csv 0.68421
+network7_result.csv 0.60287
