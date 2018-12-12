@@ -6,4 +6,6 @@ network4_result.csv(3µÄÄæÖÃ) 0.65550
 network4_result.csv 0.63636
 network6_result.csv 0.64114
 network7_result.csv 0.68421
-network7_result.csv 0.60287
+network8_result.csv 0.60287
+network10_result.csv 0.63636
+network12_result.csv 0.61244
